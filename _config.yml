@@ -1,7 +1,7 @@
 name: 'Autonomous Holdings, LLC'
 favicon: null
-layout_spectrum: 0.8494098917581141
-typography_spectrum: 0.23370944242924452
+layout_spectrum: 0.98571
+typography_spectrum: 0.61474
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#12171b'
+    - '#cdcdcd'
+    - '#909090'
+    - '#6e6e6e'
   brandStrength: 0.7029630239121616
   lightness: 0.20122509286738932
   saturation: 0.046150002628564835
